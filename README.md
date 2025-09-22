@@ -26,26 +26,5 @@ I focus on:
 
 ## 🔭 Featured projects
 - **Oracle Database Samples and Labs** — [Hands-on examples for polyglot database-driven application development](https://github.com/anders-swanson/oracle-database-code-samples).
-- **Oracle Database Metrics Exporte** — [Monitoring and observability for your Oracle Database instances](github.com/oracle/oracle-db-appdev-monitoring).  
+- **Oracle Database Metrics Exporter** — [Monitoring and observability for your Oracle Database instances](github.com/oracle/oracle-db-appdev-monitoring).  
 - **Spring Cloud Oracle** — [Spring Boot integrations with Oracle Database](https://github.com/oracle/spring-cloud-oracle).
-
----
-
-## 🙋 Want to collaborate?
-
-If you're building modern database-driven applications, let's talk.
-
----
-
-## 📈 GitHub Stats
-<!--
-Add GitHub README stats widgets by uncommenting the lines below and replacing `anders-swanson` with your GitHub username.
-These are popular community-provided widgets — add them if you like the look.
--->
-<!--
-![Anders' GitHub stats](https://github-readme-stats.vercel.app/api?username=anders-swanson&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anders-swanson&layout=compact)
--->
-
----
-
