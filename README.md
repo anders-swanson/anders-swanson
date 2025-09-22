@@ -29,14 +29,6 @@ I focus on:
 - **Oracle Database Metrics Exporte** — [Monitoring and observability for your Oracle Database instances](github.com/oracle/oracle-db-appdev-monitoring).  
 - **Spring Cloud Oracle** — [Spring Boot integrations with Oracle Database](https://github.com/oracle/spring-cloud-oracle).
 
-
----
-
-## 📚 Writing & Talks
-I write practical how-tos and labs aimed at developers who want production-ready patterns:
-- Blog: https://andersswanson.dev/
-- LiveLabs & Samples: Oracle LiveLabs & GitHub repos linked above
-
 ---
 
 ## 🙋 Want to collaborate?
