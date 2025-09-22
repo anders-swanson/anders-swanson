@@ -25,11 +25,10 @@ I focus on:
 ---
 
 ## 🔭 Featured projects
-- **Oracle Database Samples and Labs** — [Hands-on examples for polyglot database-driven application development pub/sub and event-driven apps]([https://github.com/anders-swanson](https://github.com/anders-swanson/oracle-database-code-samples)).
+- **Oracle Database Samples and Labs** — [Hands-on examples for polyglot database-driven application development](https://github.com/anders-swanson/oracle-database-code-samples).
 - **Oracle Database Metrics Exporte** — [Monitoring and observability for your Oracle Database instances](github.com/oracle/oracle-db-appdev-monitoring).  
 - **Spring Cloud Oracle** — [Spring Boot integrations with Oracle Database](https://github.com/oracle/spring-cloud-oracle).
 
-(See my GitHub for more repos — I keep practical samples, demos, and labs up to date.)
 
 ---
 
@@ -43,8 +42,6 @@ I write practical how-tos and labs aimed at developers who want production-ready
 ## 🙋 Want to collaborate?
 
 If you're building modern database-driven applications, let's talk.
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/anders-swanson)
 
 ---
 
