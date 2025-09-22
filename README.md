@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anders Swanson
 Developer Advocate • Oracle Database • Distributed systems • Event streaming
 
-[Website 🔗](https://andersswanson.dev/) · [GitHub (You are here :) )](https://github.com/anders-swanson) · [LinkedIn](https://www.linkedin.com/in/anders-swanson)  
+[Website 🔗](https://andersswanson.dev/) · [GitHub](https://github.com/anders-swanson) · [LinkedIn](https://www.linkedin.com/in/anders-swanson)  
 
 ---
 
