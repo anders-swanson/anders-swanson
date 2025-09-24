@@ -10,14 +10,7 @@ Developer Advocate • Oracle Database • Distributed systems • Event streami
 
 I build developer-friendly examples and hands-on labs to help you get the most out of your database.
 
-I focus on:
-- Turning database features into simple, reusable developer experiences.
-- Building samples and labs that teach real engineering patterns.
-- Open source community building and development.
-
----
-
-## 🚀 What I do
+#### 🚀 What I do
 - Build and share developer-friendly patterns for **Oracle Database**
 - Create hands-on labs that combine event-streaming, document databases, vector search, and more.
 - Contribute and maintain Oracle integrations in open-source projects.
