@@ -18,9 +18,16 @@ I build developer-friendly examples and hands-on labs to help you get the most o
 ---
 
 ## 🔭 Featured projects
-- **Oracle Database Samples and Labs** — [Hands-on examples for polyglot database-driven application development](https://github.com/anders-swanson/oracle-database-code-samples).
-- **Oracle Database Metrics Exporter** — [Monitoring and observability for your Oracle Database instances](github.com/oracle/oracle-db-appdev-monitoring).  
-- **Spring Cloud Oracle** — [Spring Boot integrations with Oracle Database](https://github.com/oracle/spring-cloud-oracle).
+- [**Oracle Database Samples and Labs**](https://github.com/anders-swanson/oracle-database-code-samples) — Hands-on examples for polyglot database-driven application development.
+- [**Oracle Database Metrics Exporter**](https://github.com/oracle/oracle-db-appdev-monitoring) — Monitoring and observability for your Oracle Database instances.  
+- [**Spring Cloud Oracle**](https://github.com/oracle/spring-cloud-oracle) — Spring Boot integrations with Oracle Database.
+
+## ☸ CNCF + Oracle Integrations
+
+- [External Secrets + Oracle Vault](https://external-secrets.io/latest/provider/oracle-vault/)
+- [External DNS + OCI DNS provider](https://kubernetes-sigs.github.io/external-dns/v0.14.2/tutorials/oracle/)
+- [OpenCost + OCI & OKE](https://opencost.io/docs/configuration/oracle)
+- [k8sgpt + OCI GenAI](https://github.com/k8sgpt-ai/k8sgpt/blob/main/pkg/ai/ocigenai.go)
 
 ## 📊 GitHub Stats
 
